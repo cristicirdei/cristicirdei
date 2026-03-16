@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cristicirdei
-- 👀 I’m interested in web development and iOS app development 
+- 👀 I’m interested in web development and UI/UX design 
 - 🌱 I’m currently learning and exploring web technologies
 
 <!---
